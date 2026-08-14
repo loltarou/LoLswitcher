@@ -60,6 +60,8 @@ RIOT_API_KEY=RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 1. `main.exe`（またはソース）と同じフォルダ
 2. `%LOCALAPPDATA%\Switch\.env`
 
+win+R %LOCALAPPDATA%\Switch で開けます
+
 > API キーが無くてもアカウント切り替え自体は動作します（ランク表示と PUUID ツールが無効になるだけ）。
 
 ---
